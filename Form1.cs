@@ -21,8 +21,5 @@ namespace pantalla_dash_board
         public event EventHandler Tarjetamodulos;
     }
 
-    }
-            
-    }
-    }
+     
 }
